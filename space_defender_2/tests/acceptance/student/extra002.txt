@@ -1,0 +1,9 @@
+--Test RNG does not get reset between games.
+toggle_debug_mode
+play(10,30,20,40,60,90,100)
+setup_next(5)
+pass
+abort
+play(10,30,20,40,60,90,100)
+setup_next(5)
+pass

@@ -1,0 +1,14 @@
+--Test debug mode toggle.
+play(10,30,2,2,2,2,2)
+setup_next(5)
+move(D,9)
+toggle_debug_mode
+pass
+toggle_debug_mode
+toggle_debug_mode
+toggle_debug_mode
+move(D,16)
+toggle_debug_mode
+pass
+toggle_debug_mode
+pass

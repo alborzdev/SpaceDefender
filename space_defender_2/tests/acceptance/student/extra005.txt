@@ -1,0 +1,22 @@
+--Long game.
+toggle_debug_mode
+play(10,30,20,40,60,70,80)
+setup_next(5)
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass

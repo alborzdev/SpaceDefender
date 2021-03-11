@@ -1,0 +1,8 @@
+--Test output structure.
+play(10,30,101,101,101,101,101)
+setup_next(5)
+toggle_debug_mode
+pass
+pass
+pass
+

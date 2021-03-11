@@ -1,0 +1,16 @@
+--Test output structure.
+play(5,10,2,2,2,2,2)
+setup_select(5)
+toggle_debug_mode
+setup_next(5)
+toggle_debug_mode
+fire
+pass
+pass
+pass
+pass
+pass
+fire
+pass
+
+
